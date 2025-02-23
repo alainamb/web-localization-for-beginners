@@ -84,6 +84,9 @@ web-localization-for-beginners/
 ## Inspecting the Webpage Using Chrome DevTools
 - Navigating the Elements tab: HTML in main area; CSS under Styles on the right
 
+## Development Notes ##
+- **Localization Approach:** While externalizing strings into JSON files is a best practice, this lesson focuses on foundational localization concepts using inline content.
+
 ## Localization Checklist
 Create and localize the HTML elements in the `TerminologyWebpage_LocDemo_es-MX.html` file.
 Refer to the `Assignment Checklist.docx` for detailed grading criteria and translation guidelines.
