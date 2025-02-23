@@ -27,6 +27,24 @@ This repository is a comprehensive learning resource for web localization, desig
 - Apply localization techniques to web pages
 - Develop critical skills for multilingual web development
 
+## Key Localization Concepts ##
+
+### Character Encoding ###
+- Importance of UTF-8 in multilingual web development
+- Supporting international character sets
+- Preventing text rendering issues
+
+### Localization Challenges ###
+- Text expansion and contraction
+- Right-to-left (RTL) language support
+- Technical and linguistic nuances
+
+### Context in Translation ###
+- Beyond literal translation
+- Cultural adaptation
+- Maintaining original intent
+- Audience-specific localization strategies
+
 ## Development Notes
 - **AI Assistance:** This project was developed with the assistance of Claude 3.5 Sonnet and Claude 3.5 Haiku
 
