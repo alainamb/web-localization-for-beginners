@@ -1,0 +1,1 @@
+# web-localization-for-beginners
