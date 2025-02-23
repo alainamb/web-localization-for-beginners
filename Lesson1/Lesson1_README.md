@@ -99,12 +99,8 @@ Create and localize the `terminology-quiz-es-MX.js` file with culturally appropr
 - **AI Assistance:** This lesson was developed with support from Claude 3.5 Sonnet and Claude 3.5 Haiku
 - **Localization Approach:** Inline content used to focus on fundamental concepts
 
-## Next Steps
-Prepare for Lesson 2: SEO Optimization for Localized Websites
-
 ## Troubleshooting
 - Ensure all files are in the correct directory
-- Check browser console for any JavaScript errors
 - Verify file paths and encoding
 
 ## Resources
