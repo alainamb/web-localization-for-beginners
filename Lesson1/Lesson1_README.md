@@ -43,6 +43,11 @@ web-localization-for-beginners/
 2. Refresh the browser
 3. Verify that interactive elements are now functioning
 
+#### Step 4: Add the Translated Content
+1. Once completed, move `TerminologyWebpage_LocDemo_es-MX.html` and `terminology-quiz_es-MX.js` (if translated) to the top-level directory
+2. Refresh the browser
+3. Verify that you are now able to switch the page between English and Spanish and that the interactive elements of the quiz work in both languages
+
 ## Key Localization Areas to Focus On
 - HTML Content
   - Page title
