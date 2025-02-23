@@ -45,7 +45,7 @@ web-localization-for-beginners/
 
 ## Key Localization Areas to Focus On
 - HTML Content
-  - Head: Character encoding (UTF-8), ISO language codes, page title
+  - Page title
   - Headings (h1, h2, h3)
   - Paragraph text
   - Navigation elements
@@ -54,7 +54,8 @@ web-localization-for-beginners/
   - Comments
 
 - Metadata and SEO
-  - HTML lang attribute
+  - Character encoding (UTF-8)
+  - HTML lang attribute using ISO language codes
   - Page title tag
   - Meta description
 
@@ -65,8 +66,7 @@ web-localization-for-beginners/
 
 - Accessibility
   - Image alt text
-  - ARIA labels
-  - Error messages
+  - More advanced topics to cover later: ARIA labels, error messages
 
 ## Localization Considerations
 
@@ -79,6 +79,9 @@ web-localization-for-beginners/
 - Translation is more than word-for-word conversion
 - Understand the cultural and contextual nuances
 - Consider: idiomatic expressions, cultural references, technical terminology, audience expectations
+
+### More advanced topics to cover later
+- Text direction to accomodate both left-to-right and right-to-left languages
 
 ## Visual Studio Code Exploration
 - Open files in Visual Studio Code
