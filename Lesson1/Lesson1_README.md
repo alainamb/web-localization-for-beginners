@@ -18,11 +18,15 @@ web-localization-for-beginners/
 │
 ├── lesson1/
 │   ├── TerminologyWebpage_LocDemo_en-US.html
-│   ├── resources/
+│   ├── Resources/
 │   │   ├── language-picker.js
-│   │   ├── Making Meaning of Language.png
+│   │   ├── SemanticTriangle_en-US.png
 │   │   ├── style.css
-│   │   └── terminology-quiz-en-US.js
+│   │   └── terminology-quiz_en-US.js
+│   ├── Answers/
+│   │   ├── TerminologyWebpage_LocDemo_es-MX.html
+│   │   ├── SemanticTriangle_es-MX.png
+│   │   └── terminology-quiz_es-MX.js
 │   ├── Lesson1_README.md
 │   └── Assignment Checklist.md
 ```
@@ -47,6 +51,7 @@ web-localization-for-beginners/
 1. Once completed, move `TerminologyWebpage_LocDemo_es-MX.html` and `terminology-quiz_es-MX.js` (if translated) to the top-level directory
 2. Refresh the browser
 3. Verify that you are now able to switch the page between English and Spanish and that the interactive elements of the quiz work in both languages
+4. Example localized files can be found in the Answers directory.
 
 ## Key Localization Areas to Focus On
 - HTML Content
