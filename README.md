@@ -61,4 +61,5 @@ MIT License
 
 ## Acknowledgments
 - Universidad Intercontinental
+- MIT xPro Professional Certificate in Coding: Full Stack Development with MERN
 - Anthropic, for AI assistance in project development
