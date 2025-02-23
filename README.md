@@ -29,7 +29,6 @@ This repository is a comprehensive learning resource for web localization, desig
 
 ## Development Notes
 - **AI Assistance:** This project was developed with the assistance of Claude 3.5 Sonnet and Claude 3.5 Haiku
-- **Localization Approach:** While externalizing strings into JSON files is a best practice, this course focuses on foundational localization concepts using inline content
 
 ## Getting Started
 1. Clone the repository
