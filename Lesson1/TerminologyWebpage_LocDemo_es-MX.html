@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<!-- LOC NOTE: The DOCTYPE declaration should remain unchanged across localizations -->
+<html lang="es-MX">
+<!-- LOC NOTE: The lang attribute must be updated to match the target locale (e.g., es-MX for Mexican Spanish) -->
+<head>
+    <title>Terminología e IAG</title>
+    <meta name="description" content="Esta exploración se centra en dos campos que se intersectan: la ciencia de la terminología - el estudio de cómo los humanos entienden y etiquetan conceptos - y la inteligencia artificial generativa (IAG)." />
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="alternate" hreflang="en-US" href="TerminologyWebpage_LocDemo_en-US.html" />
+    <link rel="alternate" hreflang="es-MX" href="TerminologyWebpage_LocDemo_es-MX.html" />
+</head>
+<body>
+    <div class="language-picker">
+        <label for="language-select">Idioma:</label>
+        <select id="language-select" onchange="changeLanguage(this.value)">
+            <option value="en-US">English</option>
+            <option value="es-MX">Español</option>
+        </select>
+    </div>
+
+    <main id="main-content">
+    <h1>Terminología e IAG</h1>
+    <p>Por Alaina Brandt</p>
+    <p>En el panorama tecnológico actual, que evoluciona rápidamente, comprender cómo nos comunicamos y creamos significado es más crucial que nunca. Esta exploración se centra en dos campos que se intersectan: la ciencia de la terminología - el estudio de cómo los humanos entienden y etiquetan conceptos - y la inteligencia artificial generativa (IAG). Al examinar estas áreas en conjunto, podemos comprender mejor tanto los desafíos como las oportunidades en la comunicación entre humanos y máquinas.</p>
+
+    <h2>Fundamentos de la Teoría de la Terminología</h2>
+    <p>El trabajo terminológico se utiliza típicamente para garantizar la calidad en actividades como la redacción, la traducción y la interpretación. Para quienes se dedican a comunicarse con humanos, la terminología es un tema importante de entender. Para comprender por qué, podemos examinar el Triángulo Semántico, un modelo que ilustra la comprensión humana. También conocido como el Triángulo del Significado, las ideas presentadas en el triángulo semántico son bastante simples.</p>
+    
+    <ul class="content-list">
+        <li>En una esquina del triángulo tenemos los <b>objetos</b> - cualquier cosa percibida o concebida según la <a href="https://www.iso.org/standard/79077.html" target="_blank" rel="noopener noreferrer">ISO 704</a>.</li>
+        <li>Otra esquina es para los <b>conceptos</b>, o la abstracción en la mente de los humanos de los conceptos.</li>
+        <li>En otra esquina tenemos las <b>designaciones</b>, o las palabras en los idiomas que se utilizan para etiquetar las abstracciones de los objetos.</li>
+    </ul>
+
+    <p>Estos elementos unidos es como los humanos dan sentido al mundo que los rodea. Sin embargo, como señalo en el artículo “<a href="https://alainambrandt.locessentials.com/getting-started-with-terminology-management/" target="_blank" rel="noopener noreferrer">Comenzando con la Gestión Terminológica</a>”: “Es importante recordar que el hecho de que las comunidades de hablantes utilicen un lenguaje común no significa que esos hablantes compartan exactamente la misma conceptualización de cada objeto designado” (traducido del inglés). Cada persona tiene sus propias ideas únicas sobre lo que hace que un objeto físico sea una cosa y sobre ideas abstractas como la amistad y el aseguramiento de la calidad.</p>
+
+    <figure class="content-figure">
+        <img src="SemanticTriangle_es-MX.png" alt="El Triángulo Semántico superpuesto sobre una cabeza humana">
+        <figcaption>
+            Figura 1: El Triángulo Semántico ilustra cómo los humanos conectan objetos, conceptos y designaciones para crear significado
+        </figcaption>
+    </figure>
+
+    <h2>Desafíos en la IA Generativa y la Terminología</h2>
+    <p>El surgimiento de la IA generativa textual ha provocado interesantes discusiones dentro de los círculos terminológicos sobre sus implicaciones para el Triángulo Semántico (Dr. Sue Ellen Wright, conversación personal 2024). A diferencia del uso tradicional del lenguaje, donde las palabras se conectan tanto con conceptos como con objetos del mundo real, la IA textual opera únicamente a nivel de designaciones. Procesa el lenguaje a través de patrones numéricos y grupos de similitud, sin una verdadera comprensión de los conceptos o conexión con referencias del mundo real. Esta desconexión fundamental de los componentes conceptuales y referenciales del triángulo ayuda a explicar por qué la IA generativa puede producir alucinaciones y resultados inexactos.</p>
+
+    <h2>Grafos de Conocimiento: La Solución para la Terminología en la IA Generativa</h2>
+    <p>El grafo de conocimiento ofrece una solución prometedora a estos desafíos de precisión de la IA. Un <i>grafo de conocimiento</i> es una forma estructurada de representar el lenguaje especializado donde los conceptos y objetos del mundo real se convierten en entidades (nodos) conectadas por relaciones (aristas). El lenguaje especializado es un lenguaje natural utilizado en un campo temático y caracterizado por el uso de medios de expresión específicos (ISO 1087). Cuando los datos terminológicos recopilados sobre el lenguaje especializado se modelan estratégicamente dentro de dicho grafo, pueden integrarse en sistemas de IA generativa para mejorar la calidad de su producción más allá de lo posible con una consulta estándar de modelo de lenguaje grande.</p>
+
+    <aside class="content-aside">
+        <p>En 2012, Google revolucionó las búsquedas web implementando grafos de conocimiento a una escala sin precedentes. Lanzaron esta función con el memorable eslogan “cosas, no cadenas”, destacando la capacidad del sistema para diferenciar entre conceptos que comparten el mismo nombre – por ejemplo, distinguiendo entre un jaguar el animal y Jaguar la empresa automotriz. Para aquellos nuevos en los grafos de conocimiento, el artículo de Google <a href="https://blog.google/products/search/introducing-knowledge-graph-things-not/" target="_blank" rel="noopener noreferrer">Introduciendo el Grafo de Conocimiento: cosas, no cadenas</a> (en inglés) proporciona una excelente introducción a través de texto e imágenes.</p>
+        <p>- De <a href="https://youtu.be/ysjRAgRCtBY?si=44yEWtpWK34ufTUj" target="_blank" rel="noopener noreferrer">Convirtiendo Bases Terminológicas en Grafos de Conocimiento</a> (en inglés) por Alaina Brandt, presentado el 28 de diciembre de 2024</p>
+    </aside>
+
+    <h2>Terminología e IAG Textual: Conclusiones</h2>
+    <p>Las ventajas clave de usar grafos de conocimiento terminológicos con IAG incluyen:</p>
+    <ol class="content-list">
+        <li>Mayor precisión a través de relaciones estructuradas entre conceptos</li>
+        <li>Mejor manejo de términos ambiguos a través de contexto explícito</li>
+        <li>Capacidad mejorada para verificar información contra conocimiento establecido</li>
+        <li>Mapeo terminológico entre idiomas más confiable</li>
+    </ol>
+
+    <div class="quiz-container">
+        <h2>Evalúa tu Comprensión</h2>
+        <p>Ahora que has aprendido un poco sobre el arte de la terminología, evalúa tu comprensión de los conceptos clave tomando este cuestionario.</p>
+        <form id="quizForm">
+            <div class="question">
+                <h3>Pregunta 1</h3>
+                <p>¿Verdadero o falso? Todos los hablantes de un idioma tienen exactamente la misma conceptualización de los significados de todas las palabras que se utilizan en el lenguaje.</p>
+                <div class="options">
+                    <div class="option-container">
+                        <input type="radio" name="q1" value="True" id="q1a">
+                        <label for="q1a">Verdadero</label>
+                    </div>
+                    <div class="option-container">
+                        <input type="radio" name="q1" value="False" id="q1b">
+                        <label for="q1b">Falso</label>
+                    </div>
+                </div>
+                <p class="feedback" id="feedback_q1"></p>
+            </div>
+
+            <div class="question">
+                <h3>Pregunta 2</h3>
+                <p>¿Cuál es la definición de lenguaje especializado?</p>
+                <div class="options">
+                    <div class="option-container">
+                        <input type="radio" name="q2" value="independent of any specific subject field" id="q2a">
+                        <label for="q2a">lenguaje natural caracterizado por el uso de medios de expresión lingüística que son independientes de cualquier campo temático específico</label>
+                    </div>
+                    <div class="option-container">
+                        <input type="radio" name="q2" value="use in a specific subject field" id="q2b">
+                        <label for="q2b">lenguaje natural utilizado en un campo temático y caracterizado por el uso de medios de expresión específicos</label>
+                    </div>
+                </div>
+                <p class="feedback" id="feedback_q2"></p>
+            </div>
+
+            <div class="question">
+                <h3>Pregunta 3</h3>
+                <p>¿Cuál es una característica compartida entre la traducción y la interpretación? Selecciona la mejor respuesta.</p>
+                <div class="options">
+                    <div class="option-container">
+                        <input type="radio" name="q3" value="rendering of ideas" id="q3a">
+                        <label for="q3a">la reproducción de ideas expresadas en un idioma a otro idioma</label>
+                    </div>
+                    <div class="option-container">
+                        <input type="radio" name="q3" value="written content" id="q3b">
+                        <label for="q3b">la reproducción de contenido escrito</label>
+                    </div>
+                    <div class="option-container">
+                        <input type="radio" name="q3" value="verbal content" id="q3c">
+                        <label for="q3c">la reproducción de contenido verbal</label>
+                    </div>
+                </div>
+                <p class="feedback" id="feedback_q3"></p>
+            </div>
+            
+            <button type="button" onclick="submitAnswers()">Enviar Respuestas</button>
+        </form>
+    </div>
+
+    <script src="language-picker.js"></script>
+    <script src="terminology-quiz_es-MX.js"></script>
+</body>
+</html>
