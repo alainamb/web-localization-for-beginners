@@ -1,0 +1,144 @@
+/* CSS with color contrast to meet Web Content Accessibility Guidelines (WCAG) requirements for a minimum contrast ratio of 4.5:1 */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #ffffff;
+    color: #333333;
+}
+
+/* Language picker styles */
+.language-picker {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 10px 0 20px;
+    width: 100%;
+}
+
+.language-picker select {
+    padding: 5px 10px;
+    border: 1px solid #1E669A;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    color: #333333;
+    background-color: #ffffff;
+}
+
+.language-picker label {
+    font-size: 14px;
+    color: #333333;
+}
+
+/* Heading styles */
+h1 {
+    color: #1E669A;
+    border-bottom: 2px solid #1E669A;
+    padding-bottom: 10px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+h2 {
+    color: #1E669A;
+    margin-top: 30px;
+}
+
+/* List styles */
+.content-list {
+    background-color: #F0F4F8;
+    padding: 20px 40px;
+    border-left: 3px solid #1E669A;
+    color: #333333;
+}
+
+/* Figure styles */
+.content-figure {
+    margin: 30px auto;
+    padding: 10px;
+    border: 1px solid #CCCCCC;
+    text-align: center;
+    max-width: fit-page;
+}
+
+.content-figure img {
+    width: 40%;
+}
+
+.content-figure figcaption {
+    font-style: italic;
+    margin-top: 10px;
+    color: #333333;
+}
+
+/* Aside styles */
+.content-aside {
+    background-color: #E6E6E6;
+    border-left: 5px solid #666666;
+    padding: 15px 40px;
+    color: #333333;
+}
+
+/* Quiz container styles */
+.quiz-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 20px;
+}
+
+/* Styling each question block */
+.question {
+    margin-bottom: 20px;
+}
+
+/* Flex container for options */
+.options {
+    margin: 10px 0;
+}
+
+.option-container {
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 10px;
+}
+
+.option-container input[type="radio"] {
+    position: absolute;
+    left: 0;
+    top: 3px;
+}
+
+.option-container label {
+    display: inline-block;
+    width: 100%;
+    color: #333333;
+}
+
+/* Button styling */
+button {
+    background-color: #1E669A;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    display: block;
+    margin: 0 auto;
+}
+
+button:hover {
+    background-color: #14496E; 
+}
+
+/* Feedback text */
+.feedback {
+    margin-top: 10px;
+    padding: 5px;
+    color: #333333;
+}
