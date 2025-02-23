@@ -51,6 +51,7 @@ web-localization-for-beginners/
   - Navigation elements
   - Lists
   - Figure captions
+  - Comments
 
 - Metadata and SEO
   - HTML lang attribute
@@ -78,6 +79,7 @@ web-localization-for-beginners/
   - Paragraph tags
   - Headings
   - Lists
+  - Comments
 
 ## Inspecting the Webpage Using Chrome DevTools
 - Navigating the Elements tab: HTML in main area; CSS under Styles on the right
