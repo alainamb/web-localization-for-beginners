@@ -39,7 +39,7 @@ This repository is a comprehensive learning resource for web localization, desig
 Students and educators are welcome to contribute, suggest improvements, or provide feedback.
 
 ## License
-
+MIT License
 
 ## Acknowledgments
 - Universidad Intercontinental
