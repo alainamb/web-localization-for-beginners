@@ -2,10 +2,11 @@
 
 ## Course Information
 - **Course:** TR54 Temas Selectos IV: Localización de páginas web y videojuegos
-- **Institution:** Universidad Intercontinental
+- **Institution:** Universidad Intercontinental, Ciudad de México
+- **Program:** Traducción, Localización e Interpretación 
 
 ## Project Overview
-This repository is a comprehensive learning resource for web localization, designed to introduce students to the fundamental concepts and practical skills of adapting web content for different languages and cultures.
+This repository is a comprehensive learning resource for web localization, designed to introduce undergraduate students to the fundamental concepts and practical skills of adapting web content for different languages and cultures. We have five weeks within our curriculum to study webpage localization.
 
 ## Lessons Roadmap
 
