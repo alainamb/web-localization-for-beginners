@@ -45,7 +45,7 @@ web-localization-for-beginners/
 
 ## Key Localization Areas to Focus On
 - HTML Content
-  - Page title
+  - Head: Character encoding (UTF-8), ISO language codes, page title
   - Headings (h1, h2, h3)
   - Paragraph text
   - Navigation elements
@@ -66,8 +66,19 @@ web-localization-for-beginners/
 - Accessibility
   - Image alt text
   - ARIA labels
-  - Form input descriptions
   - Error messages
+
+## Localization Considerations
+
+### Text Expansion and Contraction
+- Spanish typically expands 15-30% compared to English
+- Ensure design flexibility for varying text lengths
+- Test responsive layouts with translated content
+
+### Context in Translation
+- Translation is more than word-for-word conversion
+- Understand the cultural and contextual nuances
+- Consider: idiomatic expressions, cultural references, technical terminology, audience expectations
 
 ## Visual Studio Code Exploration
 - Open files in Visual Studio Code
@@ -81,8 +92,10 @@ web-localization-for-beginners/
   - Lists
   - Comments
 
-## Inspecting the Webpage Using Chrome DevTools
-- Navigating the Elements tab: HTML in main area; CSS under Styles on the right
+## Inspecting the HTML Elements Using Chrome DevTools
+- Right-click on page element
+- Select "Inspect" or press Ctrl+Shift+I (Cmd+Option+I on Mac)
+- Explore: HTML structure
 
 ## Development Notes ##
 - **Localization Approach:** While externalizing strings into JSON files is a best practice, this lesson focuses on foundational localization concepts using inline content.
