@@ -79,8 +79,11 @@ web-localization-for-beginners/
   - Headings
   - Lists
 
+## Inspecting the Webpage Using Chrome DevTools
+- Navigating the Elements tab: HTML in main area; CSS under Styles on the right
+
 ## Localization Checklist
-Create and localize the HTML elements of the `TerminologyWebpage_LocDemo_es-MX.html` file.
+Create and localize the HTML elements in the `TerminologyWebpage_LocDemo_es-MX.html` file.
 Refer to the `Assignment Checklist.docx` for detailed grading criteria and translation guidelines.
 
 ## Important Notes
