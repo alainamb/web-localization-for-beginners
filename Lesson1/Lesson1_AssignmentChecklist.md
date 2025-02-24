@@ -57,6 +57,6 @@
 4.	Add comments in your code where you made significant localization decisions
 
 ## Grading Rubric
-•	2 points: All items complete and accurately translated
-•	1 point: Most items translated but with some omissions or errors
-•	0 points: Major omissions or significant errors
+-	2 points: All items complete and accurately translated
+-	1 point: Most items translated but with some omissions or errors
+-	0 points: Major omissions or significant errors
