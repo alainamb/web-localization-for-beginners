@@ -51,7 +51,7 @@
 -	Normally: Forgetting to translate JavaScript strings (though here work with the JS file is optional)
 
 ## Submission Requirements
-1.	Submit your localized TerminologyWebpage_LocDemo_es.html file
+1.	Submit your localized TerminologyWebpage_LocDemo_es-MX.html file
 2.	If you attempted extra credit, include your modified JS files
 3.	Include this checklist with your submission, marking completed items
 4.	Add comments in your code where you made significant localization decisions
