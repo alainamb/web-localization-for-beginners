@@ -28,11 +28,14 @@
 
 ## Bonus Elements (Optional)
 
-### 6. JavaScript Content (2 points)
+### 6. JavaScript Content
 -	Quiz feedback messages in terminology-quiz.js
 -	Correct/incorrect answer responses
 -	Dynamic content messages
 -	User error messages
+
+### 7. Image Content
+-	Recreate the image and translate the uneditable text from English to Spanish
 
 ## Translation Quality Guidelines
 
