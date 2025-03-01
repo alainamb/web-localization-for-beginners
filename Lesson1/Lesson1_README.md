@@ -12,6 +12,10 @@
 
 ## Lesson Setup
 
+### YouTube Presentation in Spanish-Mexico
+You can watch a presentation in Spanish-Mexico that corresponds to this lesson here: 
+https://www.youtube.com/watch?v=SdTLpCEZDvE
+
 ### Project Structure
 ```
 web-localization-for-beginners/
