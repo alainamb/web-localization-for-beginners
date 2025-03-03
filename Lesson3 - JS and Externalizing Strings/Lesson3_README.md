@@ -15,7 +15,6 @@
 ### Project Structure
 
 #### Lesson 1
-
 ├── lesson1/
 │   ├── TerminologyWebpage_LocDemo_en-US.html
 │   ├── TerminologyWebpage_LocDemo_es-MX.html
@@ -28,18 +27,17 @@
 │   └── terminology-quiz_es-MX.js
 
 #### Lesson 3
-
 ├── lesson3/
-│   ├── TerminologyWebpage_LocDemo_en-US.html  (improved version)
-│   ├── TerminologyWebpage_LocDemo_es-MX.html  (improved version)
+│   ├── TerminologyWebpage_LocDemo_en-US.html (improved version)
+│   ├── TerminologyWebpage_LocDemo_es-MX.html (improved version)
 │   ├── style.css
 │   ├── SemanticTriangle_en-US.png
 │   ├── SemanticTriangle_es-MX.png
-│   ├── language-picker.js                     (improved version)
-│   ├── quiz.js                                (unified JS file replacing the two separate files)
+│   ├── language-picker.js (improved version)
+│   ├── quiz.js (unified JS file replacing the two separate files)
 │   ├── locale/
-│   │   ├── en-US.json                         (English strings)
-│   └── └── es-MX.json                         (Spanish strings)
+│   │   ├── en-US.json (English strings)
+│   └── └── es-MX.json (Spanish strings)
 
 ### Learning Process
 
