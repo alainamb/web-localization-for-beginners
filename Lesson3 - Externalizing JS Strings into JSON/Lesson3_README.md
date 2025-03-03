@@ -1,4 +1,4 @@
-# Lesson 3: JavaScript and Externalizing Strings
+# Lesson 3: Externalizing JavaScript Strings into JSON
 
 ## Lesson Objectives
 - Identify and explain the challenges of embedding translatable strings directly in JavaScript code
@@ -48,12 +48,14 @@
 ### Teaching Notes
 This approach presented in this lesson prepares students for professional web development where localization is a standard requirement for global applications. This demonstration effectively shows:
 - The Problem: The original files show direct string embedding in JS, requiring duplicate files for each language.
-- The Solution: Externalizing strings to JSON and loading them dynamically.
+- The Partial Solution: The initial implementation includes proper error handling, which is crucial for UX as it prevents complete page failures when issues occur.
+- The Complete Solution: Externalizing all strings, including error messages, to JSON and loading them dynamically.
 - Real-world Application: This pattern is used by major internationalization libraries like i18next, react-intl, and vue-i18n.
 - Developer Workflow: The workflow is now cleaner:
   - Developers write code once and mark elements for translation
-  - Translators work with straightforward JSON files
+  - Translators work with straightforward JSON files that include all user-facing text, including error messages
   - Integration is automatic when JSON files are loaded
+  - Proper error handling is maintained, but now with localized messages from external files
 
 ### Step 1 - Initial Observations
 
@@ -66,7 +68,10 @@ Duplicated JavaScript files (terminology-quiz_en-US.js and terminology-quiz_es-M
 
 Error messages in language-picker.js
 - Uses a JavaScript object to store localized error messages
+- A positive aspect: error handling prevents complete page failures (such as 500 or 404 errors) by displaying informative messages to users
+- This graceful degradation is an important aspect of user experience design
 - Better than duplicating files, but still mixes code and content
+- While the implementation of error messages is good for UX, these messages should ideally be externalized along with other strings
 
 ### Step 2 - Show the Specific Problems with the Current Implementation
 - Code duplication - Show how the two quiz JS files are nearly identical except for strings
