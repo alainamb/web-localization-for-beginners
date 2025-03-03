@@ -121,7 +121,7 @@ web-localization-for-beginners/
 
 ## Localization Assignment Checklist
 Create and localize the HTML elements in the `TerminologyWebpage_LocDemo_es-MX.html` file.
-Refer to the `Assignment Checklist.docx` for detailed grading criteria and translation guidelines.
+Refer to the `Assignment Checklist.md` for detailed grading criteria and translation guidelines.
 
 ### Important Notes
 - Preserve HTML formatting while translating
