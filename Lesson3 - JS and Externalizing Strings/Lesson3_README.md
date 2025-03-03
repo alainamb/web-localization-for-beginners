@@ -9,6 +9,7 @@
 ## Required Tools
 - Web browser: Google Chrome preferred
 - Text editor: Visual Studio Code
+- Live Server extension for Visual Studio Code
 
 ## Lesson Setup
 
@@ -38,9 +39,8 @@
 │   ├── SemanticTriangle_es-MX.png
 │   ├── language-picker.js (improved version)
 │   ├── quiz.js (unified JS file replacing the two separate files)
-│   ├── locale/
-│   │   ├── en-US.json (English strings)
-│   └── └── es-MX.json (Spanish strings)
+│   │   en-US.json (English strings)
+│   └── es-MX.json (Spanish strings)
 ```
 
 ## Learning Process
@@ -121,9 +121,19 @@ Take note of how the new implementation:
 - UI labels and instructions
 
 ### Part 4: Test Your Implementation
-1. After creating your Spanish JSON file, open TerminologyWebpage_LocDemo_en-US.html in your browser.
-2.  Use the language switcher to change to Spanish.
-3. Verify that:
+After creating your Spanish JSON file, you’ll want to test that your implementation works in your browser. However, simply opening one of your HTML files in your browswer may case a CORS (Cross-Origin Resource Sharing) policy error, which is a common issue when working with local files. This happens because:
+- You’re opening the HTML file directly from your computer using the file:// protocol
+- For security reasons, browsers restrict JavaScript from making fetch() requests to local files
+
+To test your implementation, you’ll need to work around this by running a local web server instead of opening the files directly.
+1. Install the “Live Server” extension on Visual Studio Code
+2. Open your project folder in VS Code
+3. Right-click on one of your TerminologyWebpage_LocDemo.html files
+4. Select "Open with Live Server"
+
+You should now be able to test your implementation in the browser from a local web server.
+7. Use the language switcher to change to Spanish.
+8. Verify that:
 - All text elements display correctly in Spanish
 - The quiz functionality works properly
 - You can switch between languages without issues
