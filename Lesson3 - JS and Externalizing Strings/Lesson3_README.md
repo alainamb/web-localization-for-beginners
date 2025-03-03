@@ -15,6 +15,7 @@
 ### Project Structure
 
 #### Lesson 1
+```
 ├── lesson1/
 │   ├── TerminologyWebpage_LocDemo_en-US.html
 │   ├── TerminologyWebpage_LocDemo_es-MX.html
@@ -25,8 +26,10 @@
 │   ├── terminology-quiz_en-US.js
 │   ├── terminology-quiz_es-MX.js
 │   └── terminology-quiz_es-MX.js
+```
 
 #### Lesson 3
+```
 ├── lesson3/
 │   ├── TerminologyWebpage_LocDemo_en-US.html (improved version)
 │   ├── TerminologyWebpage_LocDemo_es-MX.html (improved version)
@@ -38,6 +41,7 @@
 │   ├── locale/
 │   │   ├── en-US.json (English strings)
 │   └── └── es-MX.json (Spanish strings)
+```
 
 ### Learning Process
 
