@@ -132,10 +132,10 @@ Refer to the `Assignment Checklist.md` for detailed grading criteria and transla
 ### Extra Credit
 Create and localize the `terminology-quiz-es-MX.js` file with culturally appropriate quiz content.
 
-## Development Notes
-- **AI Assistance:** This lesson was developed with support from Claude 3.5 Sonnet and Claude 3.5 Haiku
-- **Localization Approach:** While externalizing strings into JSON files is a best practice, this lesson focuses on foundational localization concepts using inline content.
-
 ## Troubleshooting
 - Ensure all files are in the correct directory
 - Verify file paths and encoding
+
+## Development Notes
+- **AI Assistance:** This lesson was developed with support from Claude 3.5 Sonnet and Claude 3.5 Haiku
+- **Localization Approach:** While externalizing strings into JSON files is a best practice, this lesson focuses on foundational localization concepts using inline content.
