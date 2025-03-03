@@ -1,0 +1,63 @@
+{
+    "ui": {
+      "language": "Idioma:",
+      "submitButton": "Enviar Respuestas"
+    },
+    "languagePicker": {
+      "languageUnavailable": "La selección de idioma no está disponible actualmente. Por favor, actualice la página.",
+      "languageNotSupported": "Este idioma no es compatible.",
+      "selectNotFound": "La selección de idioma no está disponible actualmente. Por favor, actualice la página."
+    },
+    "quiz": {
+      "title": "Evalúa tu Comprensión",
+      "intro": "Ahora que has aprendido un poco sobre el arte de la terminología, evalúa tu comprensión de los conceptos clave tomando este cuestionario.",
+      "question1": {
+        "title": "Pregunta 1",
+        "text": "¿Verdadero o falso? Todos los hablantes de un idioma tienen exactamente la misma conceptualización de los significados de todas las palabras que se utilizan en el lenguaje.",
+        "options": {
+          "true": "Verdadero",
+          "false": "Falso"
+        },
+        "correctAnswer": "false",
+        "correctFeedback": "¡Correcto! “Es importante recordar que, aunque las comunidades de hablantes usan un lenguaje común, no significa que esos hablantes compartan exactamente la misma conceptualización de cada objeto designado... Si se les pidiera dibujar su conceptualización de una mesa, ninguno de los hablantes individuales de un idioma dibujaría exactamente la misma mesa del inventario mental de las que han encontrado o imaginado en sus vidas. Esto es significativo porque quienes están fuera de los servicios lingüísticos y la localización asumen que el significado está contenido en la designación, pero las palabras en sí mismas son arbitrarias y vacías. El significado verdaderamente está en el ojo o el cerebro del observador.” (Alaina Brandt, Getting Started with Terminology Management, traducido del inglés, The ATA Chronicle)",
+        "incorrectFeedback": "Incorrecto. “Es importante recordar que, aunque las comunidades de hablantes usan un lenguaje común, no significa que esos hablantes compartan exactamente la misma conceptualización de cada objeto designado... Si se les pidiera dibujar su conceptualización de una mesa, ninguno de los hablantes individuales de un idioma dibujaría exactamente la misma mesa del inventario mental de las que han encontrado o imaginado en sus vidas. Esto es significativo porque quienes están fuera de los servicios lingüísticos y la localización asumen que el significado está contenido en la designación, pero las palabras en sí mismas son arbitrarias y vacías. El significado verdaderamente está en el ojo o el cerebro del observador.” (Alaina Brandt, Getting Started with Terminology Management, traducido del inglés,  The ATA Chronicle)"
+      },
+      "question2": {
+        "title": "Pregunta 2",
+        "text": "¿Cuál es la definición de lenguaje especializado?",
+        "options": {
+          "independent": "lenguaje natural caracterizado por el uso de medios de expresión lingüística que son independientes de cualquier campo temático específico",
+          "specific": "lenguaje natural utilizado en un campo temático y caracterizado por el uso de medios de expresión específicos"
+        },
+        "correctAnswer": "specific",
+        "correctFeedback": "¡Correcto! El lenguaje especializado es un lenguaje natural utilizado en un campo temático y caracterizado por el uso de medios de expresión específicos. (ISO 1087)",
+        "incorrectFeedback": "Incorrecto. El lenguaje especializado es un lenguaje natural utilizado en un campo temático y caracterizado por el uso de medios de expresión específicos. (ISO 1087)"
+      },
+      "question3": {
+        "title": "Pregunta 3",
+        "text": "¿Cuál es una característica compartida entre la traducción y la interpretación? Selecciona la mejor respuesta.",
+        "options": {
+          "renderingIdeas": "la reproducción de ideas expresadas en un idioma a otro idioma",
+          "writtenContent": "la reproducción de contenido escrito",
+          "verbalContent": "la reproducción de contenido verbal"
+        },
+        "correctAnswer": "renderingIdeas",
+        "correctFeedback": "¡Correcto!",
+        "incorrectFeedback": {
+          "writtenContent": "Incorrecto. Una característica compartida de la traducción y la interpretación es que ambas son una transmisión de ideas expresadas en un idioma a otro idioma.",
+          "verbalContent": "Incorrecto. Una característica compartida de la traducción y la interpretación es que ambas son una transmisión de ideas expresadas en un idioma a otro idioma."
+        }
+      },
+      "errorMessages": {
+        "formNotFound": "No se encontró el formulario del cuestionario",
+        "feedbackNotFound": "No se encontró el elemento de retroalimentación para la pregunta {0}",
+        "radioButtonsNotFound": "No se encontraron botones de opción para la pregunta {0}",
+        "unansweredQuestion": "Por favor, responde {0} {1}",
+        "question": "la pregunta",
+        "questions": "las preguntas",
+        "scoreAnnouncement": "Respondiste correctamente {0} de {1} preguntas",
+        "processingError": "Ocurrió un error al procesar tus respuestas. Por favor, actualiza la página e intenta de nuevo.",
+        "incorrect": "Incorrecto. Por favor, intenta de nuevo."
+      }
+    }
+  }
