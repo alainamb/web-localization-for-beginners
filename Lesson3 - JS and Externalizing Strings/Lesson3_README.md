@@ -142,3 +142,10 @@ Submit your completed es-MX.json file and reflection paragraph.
 - **Full Points:** Created a properly formatted es-MX.json file with accurate translations, maintained correct JSON structure, and submitted a complete reflection demonstrating understanding of the advantages.
 - **Half Points:** Created an es-MX.json file with minor formatting issues or translation errors, or submitted an incomplete reflection that only partially addresses the advantages.
 - **No Points:** Failed to create a working es-MX.json file, or the file has major structural problems that prevent functionality, or did not submit a reflection.
+
+## Troubleshooting
+- Ensure all files are in the correct directory
+- Verify file paths and encoding
+
+## Development Notes
+- **AI Assistance:** This lesson was developed with support from Claude 3.5 Sonnet
