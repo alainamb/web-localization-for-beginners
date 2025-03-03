@@ -1,0 +1,63 @@
+{
+    "ui": {
+      "language": "Language:",
+      "submitButton": "Submit Answers"
+    },
+    "languagePicker": {
+      "languageUnavailable": "Language selection is currently unavailable. Please try refreshing the page.",
+      "languageNotSupported": "This language is not supported.",
+      "selectNotFound": "Language selection is currently unavailable. Please try refreshing the page."
+    },
+    "quiz": {
+      "title": "Test Your Understanding",
+      "intro": "Now that you’ve learned a bit about the art of terminology, test your understanding of key concepts by taking this quiz.",
+      "question1": {
+        "title": "Question 1",
+        "text": "True or false? Every speaker of a language has the exact same conceptualization of the meanings of all words that are used in language.",
+        "options": {
+          "true": "True",
+          "false": "False"
+        },
+        "correctAnswer": "false",
+        "correctFeedback": "Correct! “It’s important to remember that just because communities of speakers use common language doesn’t mean that those speakers share the exact same conceptualization of each object that’s designated... If asked to draw their conceptualization of a table, no two individual speakers of a language will draw the same one from the mental inventory of those they’ve encountered or imagined in their lives. This is significant because those outside the language services and localization professions assume that meaning is held within the designation, but words themselves are arbitrary and empty. Meaning truly is in the eye or brain of the beholder.” (Alaina Brandt, Getting Started with Terminology Management, The ATA Chronicle)",
+        "incorrectFeedback": "Incorrect. “It’s important to remember that just because communities of speakers use common language doesn’t mean that those speakers share the exact same conceptualization of each object that’s designated... If asked to draw their conceptualization of a table, no two individual speakers of a language will draw the same one from the mental inventory of those they’ve encountered or imagined in their lives. This is significant because those outside the language services and localization professions assume that meaning is held within the designation, but words themselves are arbitrary and empty. Meaning truly is in the eye or brain of the beholder.” (Alaina Brandt, Getting Started with Terminology Management, The ATA Chronicle)"
+      },
+      "question2": {
+        "title": "Question 2",
+        "text": "What is the definition of special language?",
+        "options": {
+          "independent": "natural language characterized by the use of linguistic means of expression that are independent of any specific subject field",
+          "specific": "natural language used in a subject field and characterized by the use of specific means of expression"
+        },
+        "correctAnswer": "specific",
+        "correctFeedback": "Correct! Special language is a natural language used in a subject field and characterized by the use of specific means of expression. (ISO 1087)",
+        "incorrectFeedback": "Incorrect. Special language is a natural language used in a subject field and characterized by the use of specific means of expression. (ISO 1087)"
+      },
+      "question3": {
+        "title": "Question 3",
+        "text": "What is a shared characteristic between translation and interpreting? Select the best answer.",
+        "options": {
+          "renderingIdeas": "rendering of ideas expressed in one language into another language",
+          "writtenContent": "rendering of written content",
+          "verbalContent": "rendering of verbal content"
+        },
+        "correctAnswer": "renderingIdeas",
+        "correctFeedback": "Correct!",
+        "incorrectFeedback": {
+          "writtenContent": "Incorrect. A shared characteristic of translation and interpreting is that both are a rendering of ideas expressed in one language into another language.",
+          "verbalContent": "Incorrect. A shared characteristic of translation and interpreting is that both are a rendering of ideas expressed in one language into another language."
+        }
+      },
+      "errorMessages": {
+        "formNotFound": "Quiz form not found",
+        "feedbackNotFound": "Feedback element for question {0} not found",
+        "radioButtonsNotFound": "Radio buttons for question {0} not found",
+        "unansweredQuestion": "Please answer {0} {1}",
+        "question": "question",
+        "questions": "questions",
+        "scoreAnnouncement": "You got {0} out of {1} questions correct",
+        "processingError": "An error occurred while processing your answers. Please refresh the page and try again.",
+        "incorrect": "Incorrect. Please try again."
+      }
+    }
+  }
