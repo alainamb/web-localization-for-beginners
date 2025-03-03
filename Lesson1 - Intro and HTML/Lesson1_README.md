@@ -129,7 +129,7 @@ Refer to the `Assignment Checklist.docx` for detailed grading criteria and trans
 - Consider cultural nuances
 - Be mindful of text expansion in Spanish
 
-## Extra Credit
+### Extra Credit
 Create and localize the `terminology-quiz-es-MX.js` file with culturally appropriate quiz content.
 
 ## Development Notes
@@ -139,5 +139,3 @@ Create and localize the `terminology-quiz-es-MX.js` file with culturally appropr
 ## Troubleshooting
 - Ensure all files are in the correct directory
 - Verify file paths and encoding
-
-
