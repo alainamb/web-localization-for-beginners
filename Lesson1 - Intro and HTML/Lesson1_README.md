@@ -117,9 +117,9 @@ web-localization-for-beginners/
 ## Inspecting the HTML Elements Using Chrome DevTools
 - Right-click on page element
 - Select "Inspect" or press Ctrl+Shift+I (Cmd+Option+I on Mac)
-- Explore: HTML structure
+- Explore: HTML structure within the Elements tab; testing the changes to styles
 
-## Localization Checklist
+## Localization Assignment Checklist
 Create and localize the HTML elements in the `TerminologyWebpage_LocDemo_es-MX.html` file.
 Refer to the `Assignment Checklist.docx` for detailed grading criteria and translation guidelines.
 
