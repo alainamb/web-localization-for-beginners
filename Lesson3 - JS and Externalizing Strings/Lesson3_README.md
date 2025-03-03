@@ -43,9 +43,9 @@
 │   └── └── es-MX.json (Spanish strings)
 ```
 
-### Learning Process
+## Learning Process
 
-#### Teaching Notes
+### Teaching Notes
 This approach presented in this lesson prepares students for professional web development where localization is a standard requirement for global applications. This demonstration effectively shows:
 - The Problem: The original files show direct string embedding in JS, requiring duplicate files for each language.
 - The Solution: Externalizing strings to JSON and loading them dynamically.
@@ -55,7 +55,7 @@ This approach presented in this lesson prepares students for professional web de
   - Translators work with straightforward JSON files
   - Integration is automatic when JSON files are loaded
 
-#### Step 1 - Initial Observations
+### Step 1 - Initial Observations
 
 The set of files from Lesson 1 demonstrates a common but problematic approach to localization:
 
@@ -68,14 +68,14 @@ Error messages in language-picker.js
 - Uses a JavaScript object to store localized error messages
 - Better than duplicating files, but still mixes code and content
 
-#### Step 2 - Show the Specific Problems with the Current Implementation
+### Step 2 - Show the Specific Problems with the Current Implementation
 - Code duplication - Show how the two quiz JS files are nearly identical except for strings
 - Maintenance challenges - Explain how a bug fix would require changes in multiple files
 - Increased file size - Duplicated code increases download sizes
 - Developer/translator workflow issues - Translators need to work with code files
 - Context issues - Translators may not understand the context of strings embedded in code
 
-#### Step 3 - Demonstrate the Improved JSON Implementation
+### Step 3 - Demonstrate the Improved JSON Implementation
 
 Show the file structure with the JSON implementation to demonstrate the better approach:
 - A single unified quiz.js file that loads strings from JSON
