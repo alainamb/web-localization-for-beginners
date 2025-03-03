@@ -16,10 +16,11 @@ This repository is a comprehensive learning resource for web localization, desig
 - Basic localization techniques
 
 ### Upcoming Lessons
-1. SEO Optimization for Localized Websites
-2. Identifying Translatable Content in JavaScript
-3. Localizing CSS Styles
-4. Using Translation Environment Tools
+2. SEO Optimization for Localized Websites
+3. Externalizing JavaScript Strings into JSON
+4. Localizing CSS Styles
+5. Cultural Challenges in Segment-Based Web Localization Workflows
+6. Using Translation Environment Tools for Web Localization
 
 ## Learning Objectives
 - Understand the basics of web localization
