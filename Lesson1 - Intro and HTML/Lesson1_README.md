@@ -10,11 +10,16 @@
 - Text editor: Visual Studio Code
 - Chrome Developer Tools
 
-## Lesson Setup
+## Resources
+- [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics)
+- [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
+- [MDN Web Docs - HTML Localization](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Chrome DevTools: Overview](https://developer.chrome.com/docs/devtools/overview)
 
-### YouTube Presentation in Spanish-Mexico
-You can watch a presentation in Spanish-Mexico that corresponds to this lesson here: 
-https://www.youtube.com/watch?v=SdTLpCEZDvE
+**Presentation in Spanish-Mexico that Corresponds to this Lesson**
+- [Localización Web para Principiantes (Español-México) - Lección 1: HTML](https://www.youtube.com/watch?v=SdTLpCEZDvE)
+
+## Lesson Setup
 
 ### Project Structure
 ```
@@ -114,14 +119,11 @@ web-localization-for-beginners/
 - Select "Inspect" or press Ctrl+Shift+I (Cmd+Option+I on Mac)
 - Explore: HTML structure
 
-## Development Notes ##
-- **Localization Approach:** While externalizing strings into JSON files is a best practice, this lesson focuses on foundational localization concepts using inline content.
-
 ## Localization Checklist
 Create and localize the HTML elements in the `TerminologyWebpage_LocDemo_es-MX.html` file.
 Refer to the `Assignment Checklist.docx` for detailed grading criteria and translation guidelines.
 
-## Important Notes
+### Important Notes
 - Preserve HTML formatting while translating
 - Maintain grammatical correctness
 - Consider cultural nuances
@@ -132,14 +134,10 @@ Create and localize the `terminology-quiz-es-MX.js` file with culturally appropr
 
 ## Development Notes
 - **AI Assistance:** This lesson was developed with support from Claude 3.5 Sonnet and Claude 3.5 Haiku
-- **Localization Approach:** Inline content used to focus on fundamental concepts
+- **Localization Approach:** While externalizing strings into JSON files is a best practice, this lesson focuses on foundational localization concepts using inline content.
 
 ## Troubleshooting
 - Ensure all files are in the correct directory
 - Verify file paths and encoding
 
-## Resources
-- [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics)
-- [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
-- [MDN Web Docs - HTML Localization](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [Chrome DevTools: Overview](https://developer.chrome.com/docs/devtools/overview)
+
