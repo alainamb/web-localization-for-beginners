@@ -1,17 +1,29 @@
 # Foro de discusión: Desafíos Culturales en Flujos de Trabajo de Localización Web Basados en Segmentos
 
 Este foro contiene citas del texto “Website Localization” de Anthony Pym, seguidas por preguntas de discusión. Por favor:
-1.	Elige una pregunta que tenga pocas o ninguna respuesta
-2.	Responde de manera individual directamente en este documento
-3.	Incluye tu nombre al inicio de tu respuesta
-4.	Lee las respuestas de tus compañeros
+1. Lee cuidadosamente el artículo de Pym, prestando especial atención a las citas destacadas en las preguntas de discusión.
+2. Elige una pregunta de discusión para responder en profundidad; elige una pregunta que tenga pocas o ninguna respuesta.
+3. Elabora una respuesta que:
+- Aborde todas las partes de la pregunta
+- Incorpore conceptos del artículo de Pym
+- Se base en tu propia experiencia como usuario web y/o traductor
+- Sugiera soluciones prácticas a los desafíos identificados
+4. Tu respuesta debe tener aproximadamente 250-300 palabras
+5.	Lee las respuestas de tus compañeros
+
 Nota: Es importante que cada pregunta reciba al menos una respuesta.
 
 This forum contains quotes from Anthony Pym's "Website Localization" text, followed by discussion questions. Please:
-1. Choose a question that has few or no responses
-2. Respond individually directly in this document
-3. Include your name at the beginning of your response
-4. Read your classmates' responses
+1. Read the Pym article carefully, paying particular attention to the quotes highlighted in the discussion questions.
+2. Choose one discussion question to respond to in depth; choose a question that has few or no responses.
+3. Craft a response that:
+- Addresses all parts of the question
+- Incorporates concepts from the Pym article
+- Draws on your own experience as a web user and/or translator
+- Suggests practical solutions to the challenges identified
+4. Your response should be approximately 250-300 words
+5. Read your classmates' responses
+
 Note: It is important that each question receives at least one response.
 
 **Referencia**
