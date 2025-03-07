@@ -1,4 +1,4 @@
-# Actividad Práctica: Localización SEO
+# Localización SEO: Actividad Práctica
 Trabaja individualmente o en grupo para crear una lista de palabras clave e intenciones de búsqueda en español de México para un producto o servicio de Estados Unidos.
 
 ## Paso 1 - Escoge un producto o servicio que aún no haya sido localizado que se vende a partir de un sitio web. 
