@@ -4,8 +4,8 @@ Trabaja individualmente o en grupo para crear una lista de palabras clave e inte
 ## Paso 1 - Escoge un producto o servicio que aún no haya sido localizado que se vende a partir de un sitio web. 
 Busca un producto o servicio de Estados Unidos.
 
-## Paso 2 - Realiza una investigación para producir una lista de 5-10 palabras clave y las intenciones de las búsquedas. 
-Puedes completar el paso dos manualmente o utilizando herramientas de investigación de palabras clave.
+## Paso 2 - Realiza una investigación para producir una lista de 5-10 palabras clave y las intenciones de las búsquedas para el sitio en inglés tanto como en español. 
+Puedes completar el paso dos manualmente o utilizando herramientas de investigación de palabras clave. En total, deberás identificar entre 10-20 elementos (5-10 en inglés y 5-10 en español) para poder realizar una comparación posterior.
 
 ### Método de Investigación Manual
 - **Sugerencias de autocompletado de Google** - Escribe términos relacionados con tu producto en el buscador de Google y observa las sugerencias automáticas que aparecen. Estas sugerencias reflejan búsquedas populares de usuarios reales en México.
@@ -24,14 +24,15 @@ Puedes completar el paso dos manualmente o utilizando herramientas de investigac
 -	Incluye los nombres de todos los integrantes del equipo (si aplica)
 -	Estructura tu informe con las siguientes secciones:
 1.	**Introducción:** Presenta el producto/servicio seleccionado e incluye la URL del sitio original
-2.	**Palabras clave e intenciones de búsqueda:** Lista las 5-10 palabras clave e intenciones de búsqueda identificadas
-3.	**Justificación:** Para cada palabra clave, explica por qué es relevante para el mercado mexicano y cómo refleja las intenciones de búsqueda locales
-4.	**Recomendaciones:** Sugiere cómo implementar estas palabras clave en diferentes elementos SEO (meta tags, encabezados, contenido, etc.)
-5.	**Obras consultadas:** Lista todas las fuentes y herramientas utilizadas en tu investigación
+2.	**Palabras clave e intenciones de búsqueda en inglés:** Lista las 5-10 palabras clave e intenciones de búsqueda identificadas para el mercado estadounidense
+3.	**Palabras clave e intenciones de búsqueda en español:** Lista las 5-10 palabras clave e intenciones de búsqueda identificadas para el mercado mexicano
+4.	**Análisis comparativo:** Compara las palabras clave en ambos idiomas, destacando diferencias culturales, lingüísticas y de comportamiento de búsqueda entre los mercados
+5.	**Justificación:** Para cada palabra clave en español, explica por qué es relevante para el mercado mexicano y cómo refleja las intenciones de búsqueda locales
+6.	**Recomendaciones:** Sugiere cómo implementar estas palabras clave en diferentes elementos SEO (meta tags, encabezados, contenido, etc.)
+7.	**Obras consultadas:** Lista todas las fuentes y herramientas utilizadas en tu investigación
 
 ## Evaluación
 Puedes obtener un total de 2 puntos para esta tarea.
 -	**Puntos completos** - Excelente investigación de palabras clave con justificaciones sólidas. Lista completa con términos relevantes para el mercado mexicano. Análisis critica de la intención de búsqueda.
 -	**Medio puntos** - Investigación básica con algunas palabras clave relevantes pero con justificaciones limitadas. Falta profundidad en el análisis de la intención de búsqueda o localización incompleta para el mercado mexicano.
 -	**Sin puntos** - Investigación insuficiente, palabras clave no relevantes para el mercado mexicano o falta de justificación para las selecciones realizadas.
-
