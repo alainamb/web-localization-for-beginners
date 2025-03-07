@@ -15,21 +15,23 @@ Puedes completar el paso dos manualmente o utilizando herramientas de investigac
 -	**Análisis de sitios web de la competencia** - Examina sitios web mexicanos de productos o servicios similares para identificar términos y frases que utilizan para atraer a clientes locales.
 
 ### Herramientas de Investigación de Palabras Clave
-•	Google Keyword Planner - Esta herramienta gratuita de Google Ads te permite ver el volumen de búsquedas y la competencia por palabras clave específicas en México. Puedes filtrar por ubicación geográfica para obtener datos relevantes para el mercado mexicano.
-•	Ubersuggest (Versión gratuita) - Proporciona búsquedas gratuitas limitadas que serían suficientes para una actividad en clase sin requerir la creación de una cuenta. Te ofrece ideas de palabras clave, volumen de búsqueda y nivel de dificultad SEO.
-•	AnswerThePublic (Versión gratuita) - Útil para encontrar preguntas que las personas hacen sobre temas específicos, organizadas en categorías como quién, qué, cuándo, dónde, por qué y cómo. Esto te ayuda a entender mejor las intenciones de búsqueda.
-Paso 3 - Prepara tu Informe de Localización SEO.
-•	Crea un documento con el título "Informe de Localización SEO: [Nombre del Producto]"
-•	Incluye los nombres de todos los integrantes del equipo (si aplica)
-•	Estructura tu informe con las siguientes secciones:
+-	**[Google Keyword Planner](https://support.google.com/google-ads/answer/7337243?hl=es-MX)** - Esta herramienta gratuita de Google Ads te permite ver el volumen de búsquedas y la competencia por palabras clave específicas en México. Puedes filtrar por ubicación geográfica para obtener datos relevantes para el mercado mexicano. *Nota: Aunque es posible acceder a la herramienta sin pago, se requiere crear una cuenta de Google Ads, y los datos más detallados están limitados para cuentas sin campañas activas. Los usuarios sin campañas activas verán rangos de volumen de búsqueda en lugar de números exactos. El proceso de configuración inicial puede resultar algo complejo para principiantes.*
+-	**[Ubersuggest - Versión gratuita](https://neilpatel.com/ubersuggest/)** - Proporciona búsquedas gratuitas limitadas que serían suficientes para una actividad en clase sin requerir la creación de una cuenta. Te ofrece ideas de palabras clave, volumen de búsqueda y nivel de dificultad SEO.
+-	**[AnswerThePublic - Versión gratuita](https://answerthepublic.com)** - Útil para encontrar preguntas que las personas hacen sobre temas específicos, organizadas en categorías como quién, qué, cuándo, dónde, por qué y cómo. Esto te ayuda a entender mejor las intenciones de búsqueda.
+
+## Paso 3 - Prepara tu Informe de Localización SEO.
+-	Crea un documento con el título "Informe de Localización SEO: {Nombre del Producto}"
+-	Incluye los nombres de todos los integrantes del equipo (si aplica)
+-	Estructura tu informe con las siguientes secciones:
 1.	Introducción: Presenta el producto/servicio seleccionado e incluye la URL del sitio original
 2.	Palabras clave e intenciones de búsqueda: Lista las 5-10 palabras clave e intenciones de búsqueda identificadas
 3.	Justificación: Para cada palabra clave, explica por qué es relevante para el mercado mexicano y cómo refleja las intenciones de búsqueda locales
 4.	Recomendaciones: Sugiere cómo implementar estas palabras clave en diferentes elementos SEO (meta tags, encabezados, contenido, etc.)
 5.	Obras consultadas: Lista todas las fuentes y herramientas utilizadas en tu investigación
-Evaluación
+
+## Evaluación
 Puedes obtener un total de 2 puntos para esta tarea.
-•	2 de 2 = Excelente investigación de palabras clave con justificaciones sólidas. Lista completa con términos relevantes para el mercado mexicano. Análisis critica de la intención de búsqueda.
-•	1 de 2 = Investigación básica con algunas palabras clave relevantes pero con justificaciones limitadas. Falta profundidad en el análisis de la intención de búsqueda o localización incompleta para el mercado mexicano.
-•	0 de 2 = Investigación insuficiente, palabras clave no relevantes para el mercado mexicano o falta de justificación para las selecciones realizadas.
+•	**Puntos completos** - Excelente investigación de palabras clave con justificaciones sólidas. Lista completa con términos relevantes para el mercado mexicano. Análisis critica de la intención de búsqueda.
+•	**Medio puntos** - Investigación básica con algunas palabras clave relevantes pero con justificaciones limitadas. Falta profundidad en el análisis de la intención de búsqueda o localización incompleta para el mercado mexicano.
+•	**Sin puntos** - Investigación insuficiente, palabras clave no relevantes para el mercado mexicano o falta de justificación para las selecciones realizadas.
 
