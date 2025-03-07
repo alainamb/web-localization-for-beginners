@@ -23,15 +23,15 @@ Puedes completar el paso dos manualmente o utilizando herramientas de investigac
 -	Crea un documento con el título "Informe de Localización SEO: {Nombre del Producto}"
 -	Incluye los nombres de todos los integrantes del equipo (si aplica)
 -	Estructura tu informe con las siguientes secciones:
-1.	Introducción: Presenta el producto/servicio seleccionado e incluye la URL del sitio original
-2.	Palabras clave e intenciones de búsqueda: Lista las 5-10 palabras clave e intenciones de búsqueda identificadas
-3.	Justificación: Para cada palabra clave, explica por qué es relevante para el mercado mexicano y cómo refleja las intenciones de búsqueda locales
-4.	Recomendaciones: Sugiere cómo implementar estas palabras clave en diferentes elementos SEO (meta tags, encabezados, contenido, etc.)
-5.	Obras consultadas: Lista todas las fuentes y herramientas utilizadas en tu investigación
+1.	**Introducción:** Presenta el producto/servicio seleccionado e incluye la URL del sitio original
+2.	**Palabras clave e intenciones de búsqueda:** Lista las 5-10 palabras clave e intenciones de búsqueda identificadas
+3.	**Justificación:** Para cada palabra clave, explica por qué es relevante para el mercado mexicano y cómo refleja las intenciones de búsqueda locales
+4.	**Recomendaciones:** Sugiere cómo implementar estas palabras clave en diferentes elementos SEO (meta tags, encabezados, contenido, etc.)
+5.	**Obras consultadas:** Lista todas las fuentes y herramientas utilizadas en tu investigación
 
 ## Evaluación
 Puedes obtener un total de 2 puntos para esta tarea.
-•	**Puntos completos** - Excelente investigación de palabras clave con justificaciones sólidas. Lista completa con términos relevantes para el mercado mexicano. Análisis critica de la intención de búsqueda.
-•	**Medio puntos** - Investigación básica con algunas palabras clave relevantes pero con justificaciones limitadas. Falta profundidad en el análisis de la intención de búsqueda o localización incompleta para el mercado mexicano.
-•	**Sin puntos** - Investigación insuficiente, palabras clave no relevantes para el mercado mexicano o falta de justificación para las selecciones realizadas.
+-	**Puntos completos** - Excelente investigación de palabras clave con justificaciones sólidas. Lista completa con términos relevantes para el mercado mexicano. Análisis critica de la intención de búsqueda.
+-	**Medio puntos** - Investigación básica con algunas palabras clave relevantes pero con justificaciones limitadas. Falta profundidad en el análisis de la intención de búsqueda o localización incompleta para el mercado mexicano.
+-	**Sin puntos** - Investigación insuficiente, palabras clave no relevantes para el mercado mexicano o falta de justificación para las selecciones realizadas.
 
