@@ -1,4 +1,4 @@
-# Foro de discusión: Desafíos Culturales en Flujos de Trabajo de Localización Web Basados en Segmentos
+# Foro de discusión: Desafíos Culturales en Flujos de Trabajo de Localización Web Basados en Segmentos / Discussion Forum: Cultural Challenges in Segment-Based Web Localization
 
 Este foro contiene citas del texto “Website Localization” de Anthony Pym, seguidas por preguntas de discusión. Por favor:
 1. Lee cuidadosamente el artículo de Pym, prestando especial atención a las citas destacadas en las preguntas de discusión.
